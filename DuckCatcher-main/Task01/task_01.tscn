@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" path="res://game.gd" id="1_klrkg"]
 [ext_resource type="Theme" uid="uid://p6ily2d3rb8i" path="res://default_theme.tres" id="1_yll68"]
-[ext_resource type="PackedScene" uid="uid://c2f2psj5p0141" path="res://player.tscn" id="3_ckwfe"]
+[ext_resource type="PackedScene" uid="uid://c2f2psj5p0141" path="res://Player.tscn" id="3_ckwfe"]
 [ext_resource type="Script" path="res://ui.gd" id="3_cqyp2"]
 [ext_resource type="Script" path="res://Signals.gd" id="4_6cf53"]
 
